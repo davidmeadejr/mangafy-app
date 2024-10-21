@@ -1,4 +1,4 @@
-import MangaInput from "./components/MangaInput";
+import MangaInput from "../components/MangaInput";
 
 export default function Home() {
   return (
